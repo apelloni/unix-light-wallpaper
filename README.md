@@ -4,7 +4,7 @@ A series of wallpapers generated using Blender 2.93.
 The Blender file `./source/unix_light.blend` contains an animation with a transition between the different icons while they rotate.
 
 The unix icons are:
-  ![Arch](#arch), ![Debian](#debian), ![Gentoo](#gentoo), ![MacOS](#macos), ![Manjaro](#manjaro), ![Mint](#linux-mint), ![OpenSuse](#opensuse) and ![Ubuntu](#ubuntu).
+  [Arch](#arch), [Debian](#debian), [Gentoo](#gentoo), [MacOS](#macos), [Manjaro](#manjaro), [Mint](#linux-mint), [OpenSuse](#opensuse) and [Ubuntu](#ubuntu).
 
 
 ## Arch
